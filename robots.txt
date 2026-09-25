@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+ 
+Sitemap: https://almanzilservice.com/sitemap.xml
+``
